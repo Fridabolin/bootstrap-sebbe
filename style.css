@@ -8,3 +8,13 @@
     flex-direction:row;
     margin-top:5rem;
 }
+
+.card {
+    margin:5px;
+}
+
+
+.btn-primary {
+    background-color: pink;
+    border: hotpink;
+}
